@@ -1,0 +1,43 @@
+
+
+body {
+  
+  font-family: 'Exo 2', sans-serif;
+  background-image: url(sea.jpg);
+ 
+ 
+
+}
+
+
+a{
+    text-decoration: none;
+    color:white;
+} 
+
+.menu-bar{
+    background-color: none;
+  
+   align-items: center;
+    display: flex;
+   float: right;
+}
+
+.menu-bar a{
+    padding:12px;
+    display: inline-block;
+    font-size: 18px;
+    
+  }
+
+  .menu-bar a:hover{
+      background-color:rgb(162, 240, 220);
+  }
+
+  .menu-bar a.active{
+        background-color: teal;
+  }
+
+  h1{
+      padding-top: 70px;
+  }

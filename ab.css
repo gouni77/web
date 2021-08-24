@@ -1,0 +1,17 @@
+
+.list{
+  list-style: none;
+  color: white;
+  display: flex;
+}
+
+.list li{
+  
+    padding: 30px;
+   
+    list-style: none;
+ 
+    display: block;
+   text-align:center;
+}
+

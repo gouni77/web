@@ -1,0 +1,25 @@
+ul{
+list-style: none;
+width: 300px;
+
+float:left;
+}
+
+#image{
+  justify-content: space-between;
+  list-style: none;
+  display:inline;
+   
+
+   
+  
+  
+}
+.text{
+  margin: 0;
+  text-align:left;
+  display: inline-block;
+  justify-content: space-between;
+  padding: 15px 10px 20px 30px;
+  
+}
